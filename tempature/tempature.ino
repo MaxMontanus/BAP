@@ -21,7 +21,7 @@ bool led2Status = false; //toggle led on/off
 bool led3Status = false; //toggle led on/off
 
 // your data
-String studentName = "Faissal 33278"; // jouw student nummer + naam
+String studentName = "Max 32044"; // jouw student nummer + naam
 
 const char* ssid = "Medialab";
 const char* password = "Mediacollege2";
